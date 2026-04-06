@@ -1,0 +1,27 @@
+# Compiled binaries
+*.exe
+*.out
+logforge
+
+# Object files
+*.o
+
+# Build artifacts
+*.a
+*.so
+*.dll
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+tests/large.log
+
+# Windows null device artifact
+NUL
